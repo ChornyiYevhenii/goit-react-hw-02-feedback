@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import { NotificationWrapp } from '../Notification/Notification.styled';
 
 class Notification extends Component {
